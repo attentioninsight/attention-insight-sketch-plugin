@@ -11,7 +11,7 @@ Generate attention heatmaps and instantly know where users look when engaging wi
 
 <h2>Installation</h2> 
 
-- Download the [latest release](https://github.com/attentioninsight/attention-insight-sketch-plugin/releases/download/1.0.0/attention_insight_sketch_plugin_1.0.0.sketchplugin.zip)
+- Download the [latest release](https://github.com/attentioninsight/attention-insight-sketch-plugin/releases/download/1.1.0/attention_insight_sketch_plugin_1.1.0.sketchplugin.zip)
 - Un-zip
 - Double-click on attention_insight_sketch_plugin.sketchplugin
 
